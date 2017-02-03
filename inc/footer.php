@@ -1,0 +1,58 @@
+<?php
+require_once('function.php');
+?>
+
+<!--========= = FOOTER ========= = -->
+<footer class = "g-bg-color--dark">
+    <!--Links -->
+    <div class = "g-hor-divider__dashed--white-opacity-lightest">
+        <div class = "container g-padding-y-80--xs">
+            <div class = "row">
+                <div class = "col-sm-2 g-margin-b-20--xs g-margin-b-0--md">
+                    <ul class = "list-unstyled g-ul-li-tb-5--xs g-margin-b-0--xs">
+                        <li><a class = "g-font-size-15--xs g-color--white-opacity" href = "index.php">Home</a></li>
+                        <li><a class = "g-font-size-15--xs g-color--white-opacity" href = "about.php">About</a></li>
+                        <li><a class = "g-font-size-15--xs g-color--white-opacity" href = "services.php">Services</a></li>
+                        <li><a class = "g-font-size-15--xs g-color--white-opacity" href = "contacts.php">Contact</a></li>
+                    </ul>
+                </div>
+                <div class = "col-sm-2 g-margin-b-20--xs g-margin-b-0--md">
+                    <ul class = "list-unstyled g-ul-li-tb-5--xs g-margin-b-0--xs">
+                        <li><a class = "g-font-size-15--xs g-color--white-opacity" href = "https://web.facebook.com/Zipest-Ventures-Limited-174820842543804/?hc_ref=SEARCH&fref=nf" target="_blank">Facebook</a></li>
+                        <li><a class = "g-font-size-15--xs g-color--white-opacity" href = "https://www.instagram.com/oshin_white" target="_blank">Instagram</a></li>
+                        <li><a class = "g-font-size-15--xs g-color--white-opacity" href = "#">YouTube</a></li>
+                        <li><a class = "g-font-size-15--xs g-color--white-opacity" href = "#"> </a></li>
+                    </ul>
+                </div>
+                <div class = "col-sm-2 g-margin-b-40--xs g-margin-b-0--md">
+                    <ul class = "list-unstyled g-ul-li-tb-5--xs g-margin-b-0--xs">
+                        <li><a class = "g-font-size-15--xs g-color--white-opacity" href = "#"> </a></li>
+                        <li><a class = "g-font-size-15--xs g-color--white-opacity" href = "#"> </a></li>
+                        <li><a class = "g-font-size-15--xs g-color--white-opacity" href = "#"> </a></li>
+                    </ul>
+                </div>
+                <div class = "col-md-4 col-md-offset-2 col-sm-5 col-sm-offset-1 s-footer__logo g-padding-y-50--xs g-padding-y-0--md">
+                    <h3 class = "g-font-size-18--xs g-color--white">ZIPEST Ventures Limited</h3>
+                    <p class = "g-color--white-opacity">It is the cheapest at ZIPEST. <br>In other words, ZIPEST Ventures Limited sells her <bt> products at very reasonable rates/prices.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--End Links -->
+
+    <!--Copyright -->
+    <div class = "container g-padding-y-50--xs">
+        <div class = "row">
+            <div class = "col-xs-6">
+                <a href = "index.php">
+                    <img class = "g-width-100--xs g-height-auto--xs" src = "<?php echo SITEURL . '/' ?>img/logo.png" alt = "ZIPEST Logo">
+                </a>
+            </div>
+            <div class = "col-xs-6 g-text-right--xs">
+                <p class = "g-font-size-14--xs g-margin-b-0--xs g-color--white-opacity-light">Designed by: <a href = "http://www.boemaxmedia.wordpress.com/">Boemax Studios</a></p>
+            </div>
+        </div>
+    </div>
+    <!--End Copyright -->
+</footer>
+<!--========= = END FOOTER ========= = -->

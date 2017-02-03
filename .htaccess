@@ -1,0 +1,21 @@
+<IfModule deflate_module>
+    # Enable compression for the following file types.
+    AddOutputFilterByType            \
+     DEFLATE                         \
+      application/javascript         \
+      application/xhtml+xml          \
+      application/x-font             \
+      application/x-font-truetype    \
+      application/x-font-ttf         \
+      application/x-font-otf         \
+      application/x-font-opentype    \
+      application/vnd.ms-fontobject  \
+      text/css                       \
+      text/html                      \
+      text/javascript                \
+      text/plain                     \
+      text/xml                       \
+      font/ttf                       \
+      font/otf                       \
+      font/opentype     
+</IfModule>
