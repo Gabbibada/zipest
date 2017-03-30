@@ -21,7 +21,7 @@ $page_name = "gallery";
             <div class="container g-padding-y-125--xs">
                 <div class="g-padding-y-50--xs">
                     <h1 class="g-font-size-35--xs g-font-size-55--sm g-font-size-70--lg g-color--white">We're ZIPEST</h1>
-                    <p class="g-font-size-22--xs g-font-size-24--md g-margin-b-0--xs g-color--white">Where it is fullest and the chipest.</p>
+                    <p class="g-font-size-22--xs g-font-size-24--md g-margin-b-0--xs g-color--white">Where it is fullest and the cheapest.</p>
                 </div>
             </div>
         </div>
@@ -51,7 +51,7 @@ $page_name = "gallery";
                     </div>
                     <div class="s-portfolio__caption-hover--cc">
                         <div class="g-margin-b-25--xs">
-                            <h2 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Oyingbo Service Centre</h2>
+                            <h2 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Awokoya Service Centre</h2>
                         </div>
                         <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
                             <li>
@@ -428,6 +428,63 @@ $page_name = "gallery";
                         <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
                             <li>
                                 <a href="../img/400x500/04.jpg" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Oyingbo <br/> Service Centre">
+                                    <i class="ti-fullscreen"></i>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <!-- Item -->
+                <!-- Item -->
+                <div class="s-portfolio__item cbp-item service">
+                    <div class="s-portfolio__img-effect">
+                        <img src="../img/970x647/14.jpg" alt="image">
+                    </div>
+                    <div class="s-portfolio__caption-hover--cc">
+                        <div class="g-margin-b-25--xs">
+                            <h2 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Oke Agbo, Ijebu Igbo Service Centre</h2>
+                        </div>
+                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
+                            <li>
+                                <a href="../img/970x647/14.jpg" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Oyingbo <br/> service centre.">
+                                    <i class="ti-fullscreen"></i>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <!-- Item -->
+                <!-- Item -->
+                <div class="s-portfolio__item cbp-item service">
+                    <div class="s-portfolio__img-effect">
+                        <img src="../img/970x647/15.jpg" alt="image">
+                    </div>
+                    <div class="s-portfolio__caption-hover--cc">
+                        <div class="g-margin-b-25--xs">
+                            <h2 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Ojoo, Ijebu Igbo Service Centre</h2>
+                        </div>
+                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
+                            <li>
+                                <a href="../img/970x647/15.jpg" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Oyingbo <br/> service centre.">
+                                    <i class="ti-fullscreen"></i>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <!-- Item -->
+                <!-- Item -->
+                <div class="s-portfolio__item cbp-item service">
+                    <div class="s-portfolio__img-effect">
+                        <img src="../img/970x647/16.jpg" alt="image">
+                    </div>
+                    <div class="s-portfolio__caption-hover--cc">
+                        <div class="g-margin-b-25--xs">
+                            <h2 class="g-font-size-18--xs g-color--white g-margin-b-5--xs">Under Construction Ago-Iwoye Service Centre</h2>
+                        </div>
+                        <ul class="list-inline g-ul-li-lr-5--xs g-margin-b-0--xs">
+                            <li>
+                                <a href="../img/970x647/16.jpg" class="cbp-lightbox s-icon s-icon--sm s-icon--white-bg g-radius--circle" data-title="Oyingbo <br/> service centre.">
                                     <i class="ti-fullscreen"></i>
                                 </a>
                             </li>

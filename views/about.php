@@ -178,7 +178,7 @@ Copyright (C) 2017 Bada Gabriel. This project is created by Boemax. Modify it un
         <!-- Admin -->
         <div class="row g-row-col--0">
             <div class="col-md-3 col-xs-6 g-full-width--xs">
-                <!-- div class="wow fadeInUp" data-wow-duration=".3" data-wow-delay=".1s">                    
+                <!-- <div class="wow fadeInUp" data-wow-duration=".3" data-wow-delay=".1s">                    
                     <div class="s-team-v1">
                         <img class="img-responsive g-width-100-percent--xs" src="../img/400x400/03.jpg" alt="Image">
                         <div class="g-text-center--xs g-bg-color--white g-padding-x-30--xs g-padding-y-40--xs">
@@ -224,19 +224,18 @@ Copyright (C) 2017 Bada Gabriel. This project is created by Boemax. Modify it un
         </div>
         <!--admin-->
         
-        <!-- Team -->
+        <!-- Team -->        
         <div class="row g-row-col--0">
             <div class="col-md-3 col-xs-6 g-full-width--xs">
-                <div class="wow fadeInUp" data-wow-duration=".3" data-wow-delay=".1s">
+                <div class="wow fadeInUp" data-wow-duration=".3" data-wow-delay=".4s">
                     <!-- Team -->
                     <div class="s-team-v1">
-                        <img class="img-responsive g-width-100-percent--xs" src="../img/400x400/03.jpg" alt="Image">
+                        <img class="img-responsive g-width-100-percent--xs" src="../img/400x400/11.jpg" alt="Image">
                         <div class="g-text-center--xs g-bg-color--white g-padding-x-30--xs g-padding-y-40--xs">
-                            <h2 class="g-font-size-18--xs g-margin-b-5--xs">Segun Soyinka</h2>
-                            <span class="g-font-size-15--xs g-color--text"><i>ZVL Erinlu - Manager</i></span>
+                            <h4 class="g-font-size-18--xs g-margin-b-5--xs">Lukman Amoda</h4>
+                            <span class="g-font-size-15--xs g-color--text"><i>ZVL Oke Agbo, Ijebu Igbo  - Manager</i></span>
                         </div>
                     </div>
-                    <!-- End Team -->
                 </div>
             </div>
             <div class="col-md-3 col-xs-6 g-full-width--xs">
@@ -281,19 +280,6 @@ Copyright (C) 2017 Bada Gabriel. This project is created by Boemax. Modify it un
             <div class="col-md-3 col-xs-6 g-full-width--xs">
                 <div class="wow fadeInUp" data-wow-duration=".3" data-wow-delay=".3s">
                     <!-- Team -->
-                    <!--                    <div class="s-team-v1">
-                                            <img class="img-responsive g-width-100-percent--xs" src="../img/400x400/0ç.jpg" alt="Image">
-                                            <div class="g-text-center--xs g-bg-color--white g-padding-x-30--xs g-padding-y-40--xs">
-                                                <h4 class="g-font-size-18--xs g-margin-b-5--xs">Lucas Richardson</h4>
-                                                <span class="g-font-size-15--xs g-color--text"><i>Dental</i></span>
-                                            </div>
-                                        </div>-->
-                    <!-- End Team -->
-                </div>
-            </div>
-            <div class="col-md-3 col-xs-6 g-full-width--xs">
-                <div class="wow fadeInUp" data-wow-duration=".3" data-wow-delay=".4s">
-                    <!-- Team -->
                     <div class="s-team-v1">
                         <img class="img-responsive g-width-100-percent--xs" src="../img/400x400/07.jpg" alt="Image">
                         <div class="g-text-center--xs g-bg-color--white g-padding-x-30--xs g-padding-y-40--xs">
@@ -301,11 +287,12 @@ Copyright (C) 2017 Bada Gabriel. This project is created by Boemax. Modify it un
                             <span class="g-font-size-15--xs g-color--text"><i>ZVL Oyingbo - Manager</i></span>
                         </div>
                     </div>
+                    
                     <!-- End Team -->
                 </div>
             </div>
             <div class="col-md-3 col-xs-6 g-full-width--xs">
-                <div class="wow fadeInUp" data-wow-duration=".3" data-wow-delay=".3s">
+                <div class="wow fadeInUp" data-wow-duration=".3" data-wow-delay=".4s">
                     <!-- Team -->
                     <div class="s-team-v1">
                         <img class="img-responsive g-width-100-percent--xs" src="../img/400x400/08.jpg" alt="Image">
@@ -318,18 +305,42 @@ Copyright (C) 2017 Bada Gabriel. This project is created by Boemax. Modify it un
                 </div>
             </div>
             <div class="col-md-3 col-xs-6 g-full-width--xs">
-                <div class="wow fadeInUp" data-wow-duration=".3" data-wow-delay=".4s">
+                <div class="wow fadeInUp" data-wow-duration=".3" data-wow-delay=".3s">
                     <!-- Team -->
-                    <!--                    <div class="s-team-v1">
-                                            <img class="img-responsive g-width-100-percent--xs" src="../img/400x400/10.jpg" alt="Image">
-                                            <div class="g-text-center--xs g-bg-color--white g-padding-x-30--xs g-padding-y-40--xs">
-                                                <h4 class="g-font-size-18--xs g-margin-b-5--xs">Kira Doe</h4>
-                                                <span class="g-font-size-15--xs g-color--text"><i>Gynecology</i></span>
-                                            </div>
-                                        </div>-->
+                    <div class="s-team-v1">
+                        <img class="img-responsive g-width-100-percent--xs" src="../img/400x400/10.jpg" alt="Image">
+                        <div class="g-text-center--xs g-bg-color--white g-padding-x-30--xs g-padding-y-40--xs">
+                            <h4 class="g-font-size-18--xs g-margin-b-5--xs">Amidu Rafiu</h4>
+                            <span class="g-font-size-15--xs g-color--text"><i>ZVL Ojoo, Ijebu Igbo - Manager</i></span>
+                        </div>
+                    </div>
                     <!-- End Team -->
                 </div>
             </div>
+            <div class="col-md-3 col-xs-6 g-full-width--xs">
+                <div class="wow fadeInUp" data-wow-duration=".3" data-wow-delay=".4s">
+                    <!-- Team -->
+                    <div class="s-team-v1">
+                        <img class="img-responsive g-width-100-percent--xs" src="../img/400x400/12.jpg" alt="Image">
+                        <div class="g-text-center--xs g-bg-color--white g-padding-x-30--xs g-padding-y-40--xs">
+                            <h4 class="g-font-size-18--xs g-margin-b-5--xs">Ahmed Ibikunle </h4>
+                            <span class="g-font-size-15--xs g-color--text"><i>ZVL Ibadan - Manager</i></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+<!--            <div class="col-md-3 col-xs-6 g-full-width--xs">
+                <div class="wow fadeInUp" data-wow-duration=".3" data-wow-delay=".4s">
+                     Team 
+                    <div class="s-team-v1">
+                        <img class="img-responsive g-width-100-percent--xs" src="../img/400x400/12.jpg" alt="Image">
+                        <div class="g-text-center--xs g-bg-color--white g-padding-x-30--xs g-padding-y-40--xs">
+                            <h4 class="g-font-size-18--xs g-margin-b-5--xs">Ahmed Ibikunle </h4>
+                            <span class="g-font-size-15--xs g-color--text"><i>ZVL Ibadan - Manager</i></span>
+                        </div>
+                    </div>
+                </div>
+            </div>-->
         </div>
         <!-- End Team -->
 
